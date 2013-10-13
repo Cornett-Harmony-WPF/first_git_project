@@ -1,6 +1,7 @@
 //Conditional Logic - Relational Expressions
 //Conditional Logic - With an Expression
 //Conditional Logic - Else if
+//
 
 var kidHeight = 52;
 var minHeight = 48;
